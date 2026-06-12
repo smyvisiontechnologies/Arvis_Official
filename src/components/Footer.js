@@ -1052,7 +1052,7 @@ function Footer() {
 
                 <a
                   className="contact-card"
-                  href="mailto:arvisfertilizer@gmail.com"
+                  href="mailto:arvisfertilizers@gmail.com"
                 >
                   <span className="contact-icon">
                     <FaEnvelope />
@@ -1060,7 +1060,7 @@ function Footer() {
 
                   <span>
                     <small>Email Us</small>
-                    <strong>arvisfertilizer@gmail.com</strong>
+                    <strong>arvisfertilizers@gmail.com</strong>
                   </span>
                 </a>
 
